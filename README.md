@@ -30,7 +30,6 @@ ApniKitab Bookstore is an online platform that allows users to browse, search, a
 - **Database:** MongoDB
 - **Authentication:** JWT (JSON Web Tokens)
 - **Version Control:** Git
-- **Hosting:** [Specify if using services like Heroku, AWS, etc.]
 
 ## Installation
 
